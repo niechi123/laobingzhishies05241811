@@ -1,0 +1,8 @@
+[2021-04-09 15:03:12][debug][error]:[Return value of App\HttpController\Draw::handle_phone() must be of the type array, none returned at file:/easyswoole/App/HttpController/Draw.php line:57]
+[2021-04-09 15:29:34][debug][error]:[table's primary key [id] value is empty, can't destroy or update at file:/easyswoole/vendor/easyswoole/orm/src/AbstractModel.php line:1056]
+[2021-04-09 15:33:53][debug][error]:[table's primary key [id] value is empty, can't destroy or update at file:/easyswoole/vendor/easyswoole/orm/src/AbstractModel.php line:1056]
+[2021-04-09 15:38:00][debug][error]:[SQLSTATE[42000] [1064] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':draw_id where id in (:user_ids)' at line 1 at file:/easyswoole/vendor/easyswoole/mysqli/src/Client.php line:94]
+[2021-04-09 15:42:43][debug][warning]:[implode(): Invalid arguments passed at file:/easyswoole/App/HttpController/Draw.php line:62]
+[2021-04-09 15:54:11][debug][notice]:[Array to string conversion at file:/easyswoole/App/HttpController/Draw.php line:60]
+[2021-04-09 15:54:36][debug][notice]:[Array to string conversion at file:/easyswoole/App/HttpController/Draw.php line:60]
+[2021-04-09 16:00:36][debug][error]:[SQLSTATE[42000] [1064] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? where 3 in (17,19)' at line 1 at file:/easyswoole/vendor/easyswoole/mysqli/src/Client.php line:94]

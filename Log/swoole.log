@@ -1,0 +1,459 @@
+[2021-03-09 03:50:52 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=42] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:52 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=43] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:52 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=44] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:52 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=45] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:52 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=46] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:52 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=47] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:52 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=48] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:52 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=49] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:53 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=50] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:53 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=51] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:53 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=52] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:53 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=53] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:53 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=54] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:53 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=55] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:53 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=56] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:53 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=57] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:53 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=58] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:53 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=59] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:53 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=60] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:53 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=61] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:53 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=62] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:53 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=63] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:53 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=64] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:53 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=65] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:53 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=66] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:53 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=67] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:53 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=68] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:53 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=69] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:53 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=70] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:53 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=71] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:53 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=72] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:53 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=73] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:53 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=74] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:53 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=75] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:54 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=76] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:54 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=77] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:54 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=78] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:54 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=79] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:54 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=80] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:54 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=81] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:54 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=82] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:54 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=83] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:54 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=84] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:54 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=85] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:54 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=86] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:54 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=87] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:54 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=88] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:54 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=89] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:54 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=90] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:54 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=91] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:54 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=92] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:54 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=93] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:54 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=94] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:54 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=95] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:54 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=96] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:54 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=97] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:54 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=98] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:54 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=99] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:54 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=100] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:54 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=101] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:54 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=102] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:54 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=103] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:54 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=104] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:54 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=105] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:54 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=106] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:54 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=107] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:54 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=108] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:54 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=109] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:54 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=110] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:54 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=111] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:55 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=112] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:55 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=113] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:55 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=114] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:55 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=115] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:55 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=116] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:55 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=117] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:55 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=118] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:55 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=119] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:55 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=120] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:55 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=121] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:55 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=122] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:55 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=123] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:55 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=124] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:55 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=125] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:55 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=126] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:56 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=127] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:56 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=128] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:56 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=129] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:56 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=130] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:56 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=131] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:56 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=132] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:56 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=133] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:56 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=134] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:56 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=135] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:56 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=136] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:56 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=137] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:56 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=138] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:56 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=139] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:56 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=140] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:56 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=141] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:56 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=142] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:56 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=143] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:57 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=144] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:57 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=145] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:57 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=146] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:57 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=147] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:57 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=148] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:57 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=149] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:57 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=150] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:57 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=151] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:57 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=152] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:57 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=153] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:57 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=154] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:57 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=155] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:57 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=156] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:57 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=157] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:57 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=158] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:57 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=159] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:57 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=160] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:57 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=161] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:57 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=162] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:57 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=163] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:57 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=164] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:57 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=165] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:57 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=166] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:57 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=167] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:57 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=168] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:57 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=169] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:57 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=170] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:57 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=171] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:57 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=172] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:57 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=173] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:57 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=174] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:57 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=175] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:57 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=176] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:57 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=177] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:57 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=178] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:57 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=179] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:57 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=180] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:58 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=181] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:58 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=182] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:58 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=183] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:58 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=184] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:58 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=185] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:58 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=186] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:58 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=187] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:58 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=188] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:58 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=189] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:58 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=190] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:58 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=191] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:58 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=192] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:58 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=193] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:58 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=194] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:58 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=195] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:58 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=196] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:58 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=197] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:58 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=198] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:58 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=199] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:58 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=200] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:58 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=201] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:58 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=202] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:58 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=203] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:58 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=204] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:58 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=205] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:58 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=206] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:58 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=207] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:58 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=208] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:58 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=209] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:58 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=210] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:58 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=211] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:58 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=212] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:58 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=213] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:58 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=214] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:58 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=215] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:58 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=216] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:58 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=217] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:58 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=218] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:59 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=219] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:59 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=220] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:59 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=221] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:59 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=222] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:59 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=223] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:59 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=224] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:59 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=225] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:59 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=226] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:59 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=227] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:59 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=228] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:59 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=229] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:59 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=230] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:59 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=231] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:59 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=232] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:59 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=233] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:59 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=234] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:59 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=235] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:59 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=236] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:59 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=237] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:59 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=238] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:59 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=239] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:59 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=240] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:59 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=241] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:59 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=242] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:59 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=243] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:59 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=244] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:59 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=245] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:59 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=246] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:59 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=247] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:59 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=248] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:59 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=249] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:59 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=250] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:59 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=251] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:59 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=252] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:59 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=253] abnormal exit, status=255, signal=0
+[2021-03-09 03:50:59 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=254] abnormal exit, status=255, signal=0
+[2021-03-09 03:51:00 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=255] abnormal exit, status=255, signal=0
+[2021-03-09 03:51:00 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=256] abnormal exit, status=255, signal=0
+[2021-03-09 03:51:00 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=257] abnormal exit, status=255, signal=0
+[2021-03-09 03:51:00 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=258] abnormal exit, status=255, signal=0
+[2021-03-09 03:51:00 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=259] abnormal exit, status=255, signal=0
+[2021-03-09 03:51:00 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=260] abnormal exit, status=255, signal=0
+[2021-03-09 03:51:00 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=261] abnormal exit, status=255, signal=0
+[2021-03-09 03:51:00 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=262] abnormal exit, status=255, signal=0
+[2021-03-09 03:51:00 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=263] abnormal exit, status=255, signal=0
+[2021-03-09 03:51:00 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=264] abnormal exit, status=255, signal=0
+[2021-03-09 03:51:00 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=265] abnormal exit, status=255, signal=0
+[2021-03-09 03:51:00 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=266] abnormal exit, status=255, signal=0
+[2021-03-09 03:51:00 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=267] abnormal exit, status=255, signal=0
+[2021-03-09 03:51:00 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=268] abnormal exit, status=255, signal=0
+[2021-03-09 03:51:00 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=269] abnormal exit, status=255, signal=0
+[2021-03-09 03:51:00 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=270] abnormal exit, status=255, signal=0
+[2021-03-09 03:51:00 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=271] abnormal exit, status=255, signal=0
+[2021-03-09 03:51:00 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=272] abnormal exit, status=255, signal=0
+[2021-03-09 03:51:00 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=273] abnormal exit, status=255, signal=0
+[2021-03-09 03:51:00 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=274] abnormal exit, status=255, signal=0
+[2021-03-09 03:51:00 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=275] abnormal exit, status=255, signal=0
+[2021-03-09 03:51:00 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=276] abnormal exit, status=255, signal=0
+[2021-03-09 03:51:00 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=277] abnormal exit, status=255, signal=0
+[2021-03-09 03:51:00 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=278] abnormal exit, status=255, signal=0
+[2021-03-09 03:51:00 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=279] abnormal exit, status=255, signal=0
+[2021-03-09 03:51:00 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=280] abnormal exit, status=255, signal=0
+[2021-03-09 03:51:00 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=281] abnormal exit, status=255, signal=0
+[2021-03-09 03:51:00 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=282] abnormal exit, status=255, signal=0
+[2021-03-09 03:51:01 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=283] abnormal exit, status=255, signal=0
+[2021-03-09 03:51:01 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=284] abnormal exit, status=255, signal=0
+[2021-03-09 03:51:01 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=285] abnormal exit, status=255, signal=0
+[2021-03-09 03:51:01 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=286] abnormal exit, status=255, signal=0
+[2021-03-09 03:51:01 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=287] abnormal exit, status=255, signal=0
+[2021-03-09 03:51:01 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=288] abnormal exit, status=255, signal=0
+[2021-03-09 03:51:01 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=289] abnormal exit, status=255, signal=0
+[2021-03-09 03:51:01 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=290] abnormal exit, status=255, signal=0
+[2021-03-09 03:51:01 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=291] abnormal exit, status=255, signal=0
+[2021-03-09 03:51:01 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=292] abnormal exit, status=255, signal=0
+[2021-03-09 03:51:01 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=293] abnormal exit, status=255, signal=0
+[2021-03-09 03:51:01 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=294] abnormal exit, status=255, signal=0
+[2021-03-09 03:51:01 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=295] abnormal exit, status=255, signal=0
+[2021-03-09 03:51:01 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=296] abnormal exit, status=255, signal=0
+[2021-03-09 03:51:01 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=297] abnormal exit, status=255, signal=0
+[2021-03-09 03:51:01 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=298] abnormal exit, status=255, signal=0
+[2021-03-09 03:51:01 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=299] abnormal exit, status=255, signal=0
+[2021-03-09 03:51:01 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=300] abnormal exit, status=255, signal=0
+[2021-03-09 03:51:01 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=301] abnormal exit, status=255, signal=0
+[2021-03-09 03:51:01 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=302] abnormal exit, status=255, signal=0
+[2021-03-09 03:51:01 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=303] abnormal exit, status=255, signal=0
+[2021-03-09 03:51:01 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=304] abnormal exit, status=255, signal=0
+[2021-03-09 03:51:01 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=305] abnormal exit, status=255, signal=0
+[2021-03-09 03:51:01 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=306] abnormal exit, status=255, signal=0
+[2021-03-09 03:51:01 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=307] abnormal exit, status=255, signal=0
+[2021-03-09 03:51:01 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=308] abnormal exit, status=255, signal=0
+[2021-03-09 03:51:01 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=309] abnormal exit, status=255, signal=0
+[2021-03-09 03:51:01 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=310] abnormal exit, status=255, signal=0
+[2021-03-09 03:51:01 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=311] abnormal exit, status=255, signal=0
+[2021-03-09 03:51:01 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=312] abnormal exit, status=255, signal=0
+[2021-03-09 03:51:01 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=313] abnormal exit, status=255, signal=0
+[2021-03-09 03:51:01 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=314] abnormal exit, status=255, signal=0
+[2021-03-09 03:51:01 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=315] abnormal exit, status=255, signal=0
+[2021-03-09 03:51:01 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=316] abnormal exit, status=255, signal=0
+[2021-03-09 03:51:01 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=317] abnormal exit, status=255, signal=0
+[2021-03-09 03:51:01 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=318] abnormal exit, status=255, signal=0
+[2021-03-09 03:51:02 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=319] abnormal exit, status=255, signal=0
+[2021-03-09 03:51:02 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=320] abnormal exit, status=255, signal=0
+[2021-03-09 03:51:02 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=321] abnormal exit, status=255, signal=0
+[2021-03-09 03:51:02 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=322] abnormal exit, status=255, signal=0
+[2021-03-09 03:51:02 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=323] abnormal exit, status=255, signal=0
+[2021-03-09 03:51:02 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=324] abnormal exit, status=255, signal=0
+[2021-03-09 03:51:02 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=325] abnormal exit, status=255, signal=0
+[2021-03-09 03:51:02 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=326] abnormal exit, status=255, signal=0
+[2021-03-09 03:51:02 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=327] abnormal exit, status=255, signal=0
+[2021-03-09 03:51:02 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=328] abnormal exit, status=255, signal=0
+[2021-03-09 03:51:02 $27.0]	WARNING	swManager_check_exit_status: worker#12[pid=329] abnormal exit, status=255, signal=0
+[2021-03-18 07:12:12 $110.0]	INFO	Server is reloading all workers now
+[2021-03-18 07:14:07 $110.0]	INFO	Server is reloading all workers now
+[2021-03-18 15:14:10][debug][notice]:[Undefined index: url at file:/easyswoole/App/Helper/FuncHelper.php line:41]
+bool(false)
+[2021-03-18 07:14:30 $110.0]	INFO	Server is reloading all workers now
+[2021-03-18 15:14:32][debug][notice]:[Undefined index: url at file:/easyswoole/App/Helper/FuncHelper.php line:41]
+[2021-03-18 07:15:15 $110.0]	INFO	Server is reloading all workers now
+[2021-03-18 07:16:53 $110.0]	INFO	Server is reloading all workers now
+[2021-03-18 07:18:26 $110.0]	INFO	Server is reloading all workers now
+[2021-03-18 07:18:40 $110.0]	INFO	Server is reloading all workers now
+[2021-03-18 07:27:23 $110.0]	INFO	Server is reloading all workers now
+[2021-03-18 15:27:25][debug][error]:[Call to undefined function Couchbase\defaultDecoder() at file:/easyswoole/App/HttpController/User.php line:30]
+[2021-03-18 07:27:49 $110.0]	INFO	Server is reloading all workers now
+[2021-03-18 07:34:17 $110.0]	INFO	Server is reloading all workers now
+[2021-03-18 15:34:27][debug][error]:[SQLSTATE[23000] [1062] Duplicate entry '2' for key 'PRIMARY' [INSERT  INTO `bf_user` (`id`, `openid`, `head_img`, `name`, `identity_id`, `address`, `address_detail`, `phone`, `scores`, `answer_count`, `is_jump`, `status`, `create_time`, `login_count`, `last_login_time`)  VALUES (2, 'abcdefg', '', '', 0, '', '', '', 0, 0, 0, 1, 1616052487, 2, 1616052867)] at file:/easyswoole/vendor/easyswoole/orm/src/Db/MysqliClient.php line:78]
+[2021-03-18 15:35:12][debug][error]:[SQLSTATE[23000] [1062] Duplicate entry '2' for key 'PRIMARY' [INSERT  INTO `bf_user` (`id`, `openid`, `head_img`, `name`, `identity_id`, `address`, `address_detail`, `phone`, `scores`, `answer_count`, `is_jump`, `status`, `create_time`, `login_count`, `last_login_time`)  VALUES (2, 'abcdefg', '', '', 0, '', '', '', 0, 0, 0, 1, 1616052487, 2, 1616052912)] at file:/easyswoole/vendor/easyswoole/orm/src/Db/MysqliClient.php line:78]
+[2021-03-18 07:35:35 $110.0]	INFO	Server is reloading all workers now
+[2021-03-18 15:35:36][debug][error]:[Argument 1 passed to hxhzyh\jwtAuth\Jwt::setSecretKey() must be of the type string, null given, called in /easyswoole/App/HttpController/User.php on line 40 at file:/easyswoole/vendor/hxhzyh/jwt-auth/src/Jwt.php line:29]
+[2021-03-18 07:35:54 $110.0]	INFO	Server is reloading all workers now
+[2021-03-18 07:36:33 $110.0]	INFO	Server is reloading all workers now
+[2021-03-18 07:39:36 $110.0]	INFO	Server is reloading all workers now
+[2021-03-18 07:41:39 $110.0]	INFO	Server is reloading all workers now
+[2021-03-18 07:43:26 $110.0]	INFO	Server is reloading all workers now
+[2021-03-18 07:43:46 #109.2]	INFO	Server is shutdown now
+[2021-03-18 07:47:59 $460.0]	INFO	Server is reloading all workers now
+[2021-03-18 07:50:03 $460.0]	INFO	Server is reloading all workers now
+[2021-03-18 07:53:27 $460.0]	INFO	Server is reloading all workers now
+[2021-03-18 07:53:28 $460.0]	INFO	Server is reloading all workers now
+[2021-03-18 07:53:52 $460.0]	INFO	Server is reloading all workers now
+[2021-03-18 07:53:53 $460.0]	INFO	Server is reloading all workers now
+[2021-03-18 07:53:53 $460.0]	INFO	Server is reloading all workers now
+[2021-03-18 07:53:53 $460.0]	INFO	Server is reloading all workers now
+[2021-03-18 08:12:32 $460.0]	INFO	Server is reloading all workers now
+[2021-03-18 08:13:49 $460.0]	INFO	Server is reloading all workers now
+[2021-03-18 08:14:14 $460.0]	INFO	Server is reloading all workers now
+[2021-03-18 08:58:15 $460.0]	INFO	Server is reloading all workers now
+[2021-03-18 09:00:01 $460.0]	INFO	Server is reloading all workers now
+[2021-03-18 09:00:51 $460.0]	INFO	Server is reloading all workers now
+[2021-03-18 09:01:09 $460.0]	INFO	Server is reloading all workers now
+[2021-03-18 09:01:51 #459.2]	INFO	Server is shutdown now
+[2021-03-18 09:07:21 $665.0]	INFO	Server is reloading all workers now
+[2021-03-18 09:14:08 $665.0]	INFO	Server is reloading all workers now
+string(1) "1"
+[2021-03-18 09:14:16 #664.2]	INFO	Server is shutdown now
+[2021-03-18 09:53:21 $1076.0]	INFO	Server is reloading all workers now
+[2021-03-18 09:55:15 $1076.0]	INFO	Server is reloading all workers now
+[2021-03-18 09:59:54 $1076.0]	INFO	Server is reloading all workers now
+[2021-03-18 10:00:12 $1076.0]	INFO	Server is reloading all workers now
+[2021-03-18 10:08:44 $1076.0]	INFO	Server is reloading all workers now
+[2021-03-18 10:08:44 $1076.0]	INFO	Server is reloading all workers now
+[2021-03-18 10:08:45 $1076.0]	INFO	Server is reloading all workers now
+[2021-03-18 10:08:46 $1076.0]	INFO	Server is reloading all workers now
+[2021-03-19 01:53:47 $274.0]	INFO	Server is reloading all workers now
+[2021-03-19 02:20:10 $274.0]	INFO	Server is reloading all workers now
+[2021-03-19 02:21:31 $274.0]	INFO	Server is reloading all workers now
+[2021-03-19 02:21:43 $274.0]	INFO	Server is reloading all workers now
+[2021-03-19 02:21:56 #273.2]	INFO	Server is shutdown now
+[2021-03-19 02:36:01 $448.0]	INFO	Server is reloading all workers now
+[2021-03-19 02:38:32 $448.0]	INFO	Server is reloading all workers now
+[2021-03-19 02:42:33 $448.0]	INFO	Server is reloading all workers now
+[2021-03-19 10:42:37][debug][error]:[syntax error, unexpected ')' at file:/easyswoole/App/HttpController/Question.php line:56]
+[2021-03-19 02:43:23 $448.0]	INFO	Server is reloading all workers now
+[2021-03-19 10:43:25][debug][error]:[syntax error, unexpected ')' at file:/easyswoole/App/HttpController/Question.php line:56]
+[2021-03-19 02:44:09 $448.0]	INFO	Server is reloading all workers now
+[2021-03-19 02:45:02 $448.0]	INFO	Server is reloading all workers now
+[2021-03-19 02:46:22 $448.0]	INFO	Server is reloading all workers now
+[2021-03-19 02:46:40 $448.0]	INFO	Server is reloading all workers now
+[2021-03-19 10:46:41][debug][error]:[syntax error, unexpected ')' at file:/easyswoole/App/HttpController/Question.php line:56]
+[2021-03-19 02:46:48 $448.0]	INFO	Server is reloading all workers now
+[2021-03-19 02:47:02 $448.0]	INFO	Server is reloading all workers now
+[2021-03-19 02:54:27 $448.0]	INFO	Server is reloading all workers now
+[2021-03-19 02:54:28 $448.0]	INFO	Server is reloading all workers now
+[2021-03-19 10:54:30][debug][notice]:[Undefined index: option_d at file:/easyswoole/App/HttpController/Question.php line:80]
+[2021-03-19 10:54:30][debug][notice]:[Undefined index: option_d at file:/easyswoole/App/HttpController/Question.php line:80]
+[2021-03-19 10:54:30][debug][notice]:[Undefined index: option_d at file:/easyswoole/App/HttpController/Question.php line:80]
+[2021-03-19 10:54:30][debug][notice]:[Undefined index: option_d at file:/easyswoole/App/HttpController/Question.php line:80]
+[2021-03-19 10:54:30][debug][notice]:[Undefined index: option_d at file:/easyswoole/App/HttpController/Question.php line:80]
+[2021-03-19 10:54:30][debug][notice]:[Undefined index: option_d at file:/easyswoole/App/HttpController/Question.php line:80]
+[2021-03-19 10:54:30][debug][notice]:[Undefined index: option_d at file:/easyswoole/App/HttpController/Question.php line:80]
+[2021-03-19 10:54:30][debug][notice]:[Undefined index: option_d at file:/easyswoole/App/HttpController/Question.php line:80]
+[2021-03-19 10:54:30][debug][notice]:[Undefined index: option_d at file:/easyswoole/App/HttpController/Question.php line:80]
+[2021-03-19 02:55:04 $448.0]	INFO	Server is reloading all workers now
+[2021-03-19 02:55:04 $448.0]	INFO	Server is reloading all workers now
+[2021-03-19 10:55:06][debug][notice]:[Undefined index: option_d at file:/easyswoole/App/HttpController/Question.php line:80]
+[2021-03-19 10:55:06][debug][notice]:[Undefined index: option_d at file:/easyswoole/App/HttpController/Question.php line:80]
+[2021-03-19 10:55:06][debug][notice]:[Undefined index: option_d at file:/easyswoole/App/HttpController/Question.php line:80]
+[2021-03-19 10:55:06][debug][notice]:[Undefined index: option_d at file:/easyswoole/App/HttpController/Question.php line:80]
+[2021-03-19 10:55:06][debug][notice]:[Undefined index: option_d at file:/easyswoole/App/HttpController/Question.php line:80]
+[2021-03-19 10:55:06][debug][notice]:[Undefined index: option_d at file:/easyswoole/App/HttpController/Question.php line:80]
+[2021-03-19 10:55:06][debug][notice]:[Undefined index: option_d at file:/easyswoole/App/HttpController/Question.php line:80]
+[2021-03-19 10:55:06][debug][notice]:[Undefined index: option_d at file:/easyswoole/App/HttpController/Question.php line:80]
+[2021-03-19 10:55:06][debug][notice]:[Undefined index: option_d at file:/easyswoole/App/HttpController/Question.php line:80]
+[2021-03-19 02:55:38 #447.2]	INFO	Server is shutdown now
+[2021-03-19 03:21:20 $696.0]	INFO	Server is reloading all workers now
+[2021-03-19 03:56:40 $696.0]	INFO	Server is reloading all workers now
+[2021-03-19 03:56:41 $696.0]	INFO	Server is reloading all workers now
+[2021-03-19 03:56:41 $696.0]	INFO	Server is reloading all workers now
+[2021-03-19 03:56:41 $696.0]	INFO	Server is reloading all workers now
+[2021-03-19 11:56:44][debug][warning]:[Illegal offset type in isset or empty at file:/easyswoole/vendor/easyswoole/http/src/Request.php line:49]
+[2021-03-19 11:56:44][debug][warning]:[Illegal offset type at file:/easyswoole/vendor/easyswoole/http/src/Request.php line:49]
+[2021-03-19 03:58:20 $696.0]	INFO	Server is reloading all workers now
+[2021-03-19 03:58:20 $696.0]	INFO	Server is reloading all workers now
+[2021-03-19 03:58:20 $696.0]	INFO	Server is reloading all workers now
+[2021-03-19 03:58:21 $696.0]	INFO	Server is reloading all workers now
+[2021-03-19 11:58:23][debug][warning]:[Illegal offset type in isset or empty at file:/easyswoole/vendor/easyswoole/http/src/Request.php line:49]
+[2021-03-19 11:58:23][debug][warning]:[Illegal offset type at file:/easyswoole/vendor/easyswoole/http/src/Request.php line:49]
+[2021-03-19 11:58:23][debug][error]:[Call to undefined method App\HttpController\Question::getBody() at file:/easyswoole/App/HttpController/Question.php line:94]
+[2021-03-19 03:58:41 $696.0]	INFO	Server is reloading all workers now
+[2021-03-19 03:58:41 $696.0]	INFO	Server is reloading all workers now
+[2021-03-19 03:58:42 $696.0]	INFO	Server is reloading all workers now
+[2021-03-19 03:58:42 $696.0]	INFO	Server is reloading all workers now
+[2021-03-19 11:58:44][debug][warning]:[Illegal offset type in isset or empty at file:/easyswoole/vendor/easyswoole/http/src/Request.php line:49]
+[2021-03-19 11:58:44][debug][warning]:[Illegal offset type at file:/easyswoole/vendor/easyswoole/http/src/Request.php line:49]
+[2021-03-19 03:59:15 #695.2]	INFO	Server is shutdown now
+[2021-03-19 06:36:10 $917.0]	INFO	Server is reloading all workers now
+[2021-03-19 06:36:22 $917.0]	INFO	Server is reloading all workers now
+[2021-03-19 07:05:38 $917.0]	INFO	Server is reloading all workers now
+[2021-03-19 07:07:55 $917.0]	INFO	Server is reloading all workers now
+[2021-03-19 07:08:07 $917.0]	INFO	Server is reloading all workers now
+[2021-03-19 07:09:34 #916.2]	INFO	Server is shutdown now
+[2021-03-19 09:01:44 $1236.0]	INFO	Server is reloading all workers now
+[2021-03-22 01:38:02 $58.0]	INFO	Server is reloading all workers now
+[2021-03-22 01:46:57 $58.0]	INFO	Server is reloading all workers now
+[2021-03-22 01:52:47 $58.0]	INFO	Server is reloading all workers now
+[2021-03-22 02:07:43 $58.0]	INFO	Server is reloading all workers now
+[2021-03-22 03:03:12 $58.0]	INFO	Server is reloading all workers now
+[2021-03-22 03:33:33 $58.0]	INFO	Server is reloading all workers now
+[2021-03-22 03:39:23 $58.0]	INFO	Server is reloading all workers now
+[2021-03-22 12:00:12][debug][error]:[syntax error, unexpected ']' at file:/easyswoole/App/HttpController/Question.php line:151]
+[2021-03-22 05:36:15 $58.0]	INFO	Server is reloading all workers now
+[2021-03-22 05:46:19 $58.0]	INFO	Server is reloading all workers now
+[2021-03-22 05:46:58 $58.0]	INFO	Server is reloading all workers now
+[2021-03-22 05:47:39 $58.0]	INFO	Server is reloading all workers now
+[2021-03-22 06:34:28 $58.0]	INFO	Server is reloading all workers now
+[2021-03-22 06:50:14 $58.0]	INFO	Server is reloading all workers now
+[2021-03-22 06:52:40 $58.0]	INFO	Server is reloading all workers now
+[2021-03-22 06:53:04 $58.0]	INFO	Server is reloading all workers now
+[2021-03-22 06:56:41 #57.2]	INFO	Server is shutdown now
+[2021-03-22 08:18:16 $402.0]	INFO	Server is reloading all workers now
+[2021-03-22 08:32:21 $402.0]	INFO	Server is reloading all workers now
+[2021-03-22 08:33:07 $402.0]	INFO	Server is reloading all workers now
+[2021-03-25 07:17:06 $41.0]	INFO	Server is reloading all workers now
+[2021-03-25 07:17:15 $41.0]	INFO	Server is reloading all workers now
+[2021-03-25 15:17:58][debug][error]:[invalid code, hints: [ req_id: IhmbJTNre-S7bIrA ] at file:/easyswoole/vendor/easyswoole/wechat/src/Exception/MiniProgramError.php line:37]
+[2021-03-25 07:18:34 $41.0]	INFO	Server is reloading all workers now
+[2021-03-25 07:21:41 $41.0]	INFO	Server is reloading all workers now
+[2021-03-25 09:36:06 $41.0]	INFO	Server is reloading all workers now
+[2021-03-25 17:37:16][debug][error]:[syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')' at file:/easyswoole/App/HttpController/Question.php line:97]
+[2021-03-25 09:37:31 $41.0]	INFO	Server is reloading all workers now
+[2021-03-25 09:40:52 $41.0]	INFO	Server is reloading all workers now
+[2021-03-25 09:41:14 $41.0]	INFO	Server is reloading all workers now
+[2021-03-25 09:41:14 $41.0]	INFO	Server is reloading all workers now
+[2021-03-25 09:41:14 $41.0]	INFO	Server is reloading all workers now
+[2021-03-25 09:41:15 $41.0]	INFO	Server is reloading all workers now
+[2021-03-25 09:41:53 #40.2]	INFO	Server is shutdown now
+[2021-03-30 11:56:55][debug][warning]:[in_array() expects parameter 2 to be array, null given at file:/easyswoole/App/HttpController/Question.php line:389]
+[2021-03-30 11:56:55][debug][warning]:[in_array() expects parameter 2 to be array, null given at file:/easyswoole/App/HttpController/Question.php line:389]
+[2021-03-30 11:56:55][debug][warning]:[in_array() expects parameter 2 to be array, null given at file:/easyswoole/App/HttpController/Question.php line:389]
+[2021-03-30 11:56:55][debug][warning]:[in_array() expects parameter 2 to be array, null given at file:/easyswoole/App/HttpController/Question.php line:389]
+[2021-03-30 11:56:55][debug][warning]:[in_array() expects parameter 2 to be array, null given at file:/easyswoole/App/HttpController/Question.php line:389]
+[2021-03-30 11:56:55][debug][warning]:[in_array() expects parameter 2 to be array, null given at file:/easyswoole/App/HttpController/Question.php line:389]
+[2021-03-30 11:56:55][debug][warning]:[in_array() expects parameter 2 to be array, null given at file:/easyswoole/App/HttpController/Question.php line:389]
+[2021-03-30 11:56:55][debug][warning]:[in_array() expects parameter 2 to be array, null given at file:/easyswoole/App/HttpController/Question.php line:389]
+[2021-03-30 11:56:55][debug][warning]:[in_array() expects parameter 2 to be array, null given at file:/easyswoole/App/HttpController/Question.php line:389]
+[2021-03-30 11:56:55][debug][warning]:[sizeof(): Parameter must be an array or an object that implements Countable at file:/easyswoole/App/HttpController/Question.php line:394]
+[2021-04-09 08:12:32 *572.3]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=2] does not exists
+[2021-04-09 09:00:25 *572.3]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=6] does not exists
+[2021-04-09 09:00:26 *572.3]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=7] does not exists
+[2021-04-09 09:00:26 *572.3]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=8] does not exists
+[2021-04-09 09:00:26 *572.3]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=9] does not exists
+[2021-04-09 09:00:26 *572.3]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=10] does not exists
